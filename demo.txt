@@ -1,4 +1,3 @@
 hello word
-<<<<<<< HEAD
 master
 hot-fix
